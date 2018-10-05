@@ -1,6 +1,6 @@
 module.exports = {
   mongoURI: "",
-  secretOrKey: "here we go..."
+  secretOrKey: ""
 };
 
 //process.env.MONGOATLASDEV
